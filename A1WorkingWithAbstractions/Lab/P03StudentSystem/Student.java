@@ -1,4 +1,4 @@
-package A1WorkingWithAbstraction.Lab.P03StudentSystem;
+package A1WorkingWithAbstractions.Lab.P03StudentSystem;
 
 public class Student {
     private String name;
