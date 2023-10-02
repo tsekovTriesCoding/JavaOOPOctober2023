@@ -1,4 +1,4 @@
-package A1WorkingWithAbstraction.Exercise.P05JediGalaxy;
+package A1WorkingWithAbstractions.Exercise.P05JediGalaxy;
 
 import java.util.Arrays;
 import java.util.Scanner;
