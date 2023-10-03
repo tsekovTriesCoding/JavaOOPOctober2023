@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1ae8b4c6-c2f4-4b71-ad3c-cd64763c6639" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1WorkingWithAbstractions/Exercise/P04TrafficLights/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1WorkingWithAbstractions/Exercise/P04TrafficLights/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1WorkingWithAbstractions/Exercise/P04TrafficLights/Signals.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1WorkingWithAbstractions/Exercise/P04TrafficLights/Signals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A1WorkingWithAbstractions/Exercise/P05JediGalaxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/A1WorkingWithAbstractions/Exercise/P05JediGalaxy/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaOOPOctober2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaOOPOctober2023/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +74,7 @@
       <recent name="A2Encapsulation.P04FirstAndReserveTeam" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A2Encapsulation.Exercise.P04PizzaCalories.Main">
+  <component name="RunManager" selected="Application.A2Encapsulation.Exercise.P05FootballTeamGenerator.Main">
     <configuration name="A2Encapsulation.Exercise.P01ClassBoxDataValidation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P01ClassBoxDataValidation.Main" />
       <module name="JavaOOPOctober2023" />
@@ -117,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A2Encapsulation.Lab.P04FirstAndReserveTeam.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Lab.P04FirstAndReserveTeam.Main" />
+    <configuration name="A2Encapsulation.Exercise.P05FootballTeamGenerator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P05FootballTeamGenerator.Main" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A2Encapsulation.Lab.P04FirstAndReserveTeam.*" />
+          <option name="PATTERN" value="A2Encapsulation.Exercise.P05FootballTeamGenerator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A2Encapsulation.Exercise.P05FootballTeamGenerator.Main" />
         <item itemvalue="Application.A2Encapsulation.Exercise.P04PizzaCalories.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.A2Encapsulation.Exercise.P02AnimalFarm.Main" />
         <item itemvalue="Application.A2Encapsulation.Exercise.P01ClassBoxDataValidation.Main" />
-        <item itemvalue="Application.A2Encapsulation.Lab.P04FirstAndReserveTeam.Main" />
       </list>
     </recent_temporary>
   </component>
