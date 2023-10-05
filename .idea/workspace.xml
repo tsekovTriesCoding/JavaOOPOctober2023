@@ -49,38 +49,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/Documents/GitHub/JavaOOPOctober2023/A2Encapsulation/P03ValidationData&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "C:/Users/Acer/Documents/GitHub/JavaOOPOctober2023/animals",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A2Encapsulation\P03ValidationData" />
-      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A2Encapsulation\P02SalaryIncrease" />
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\animals" />
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\restaurant" />
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\vehicle" />
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\hero" />
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\zoo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A1WorkingWithAbstractions\Exercise" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="vehicle" />
+      <recent name="A3Inheritance.P02HierarchicalInheritance" />
       <recent name="A2Encapsulation.P04FirstAndReserveTeam" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A2Encapsulation.Exercise.P05FootballTeamGenerator.Main">
-    <configuration name="A2Encapsulation.Exercise.P01ClassBoxDataValidation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P01ClassBoxDataValidation.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="A3Inheritance.Exercise.P02Zoo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A3Inheritance.Exercise.P02Zoo.Main" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A2Encapsulation.Exercise.P01ClassBoxDataValidation.*" />
+          <option name="PATTERN" value="A3Inheritance.Exercise.P02Zoo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A2Encapsulation.Exercise.P02AnimalFarm.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P02AnimalFarm.Main" />
+    <configuration name="A3Inheritance.Exercise.P03PlayersAndMonsters.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A3Inheritance.Exercise.P03PlayersAndMonsters.Main" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A2Encapsulation.Exercise.P02AnimalFarm.*" />
+          <option name="PATTERN" value="A3Inheritance.Exercise.P03PlayersAndMonsters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A2Encapsulation.Exercise.P04PizzaCalories.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P04PizzaCalories.Main" />
+    <configuration name="A3Inheritance.Exercise.P04NeedForSpeed.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A3Inheritance.Exercise.P04NeedForSpeed.Main" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A2Encapsulation.Exercise.P04PizzaCalories.*" />
+          <option name="PATTERN" value="A3Inheritance.Exercise.P04NeedForSpeed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A2Encapsulation.Exercise.P05FootballTeamGenerator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P05FootballTeamGenerator.Main" />
+    <configuration name="A3Inheritance.Exercise.P05Restaurant.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A3Inheritance.Exercise.P05Restaurant.Main" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A2Encapsulation.Exercise.P05FootballTeamGenerator.*" />
+          <option name="PATTERN" value="A3Inheritance.Exercise.P05Restaurant.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +134,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P03ShoppingSpree.Main" />
+      <option name="MAIN_CLASS_NAME" value="A3Inheritance.Exercise.P06Animals.Main" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A2Encapsulation.Exercise.P03ShoppingSpree.*" />
+          <option name="PATTERN" value="A3Inheritance.Exercise.P06Animals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A2Encapsulation.Exercise.P05FootballTeamGenerator.Main" />
-        <item itemvalue="Application.A2Encapsulation.Exercise.P04PizzaCalories.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.A2Encapsulation.Exercise.P02AnimalFarm.Main" />
-        <item itemvalue="Application.A2Encapsulation.Exercise.P01ClassBoxDataValidation.Main" />
+        <item itemvalue="Application.A3Inheritance.Exercise.P05Restaurant.Main" />
+        <item itemvalue="Application.A3Inheritance.Exercise.P04NeedForSpeed.Main" />
+        <item itemvalue="Application.A3Inheritance.Exercise.P03PlayersAndMonsters.Main" />
+        <item itemvalue="Application.A3Inheritance.Exercise.P02Zoo.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +174,11 @@
           <url>file://$PROJECT_DIR$/A2Encapsulation/Exercise/P03ShoppingSpree/Main.java</url>
           <line>9</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A3Inheritance/Lab/P04StackOfStrings/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
