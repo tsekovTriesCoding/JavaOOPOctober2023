@@ -1,4 +1,4 @@
-package A4InterfacesAndAbstraction.P01CarShop;
+package A4InterfacesAndAbstraction.Lab.P01CarShop;
 
 public class Main {
     public static void main(String[] args) {
