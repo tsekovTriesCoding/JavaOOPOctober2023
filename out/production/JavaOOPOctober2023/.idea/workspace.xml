@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ae8b4c6-c2f4-4b71-ad3c-cd64763c6639" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOOPOctober2023/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaOOPOctober2023/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaOOPOctober2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaOOPOctober2023/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -53,9 +56,10 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/Documents/GitHub/JavaOOPOctober2023/A2Encapsulation/P03ValidationData&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/Documents/GitHub/JavaOOPOctober2023&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -64,23 +68,31 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A2Encapsulation\P03ValidationData" />
-      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A2Encapsulation\P02SalaryIncrease" />
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023" />
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A4InterfacesAndAbstraction\Exercise\P04FoodShortage" />
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A4InterfacesAndAbstraction\Exercise\P03BirthdayCelebrations" />
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\P02MultipleImplementation" />
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A4InterfacesAndAbstraction\Exercise\P02MultipleImplementation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A4InterfacesAndAbstraction\Exercise" />
       <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A1WorkingWithAbstractions\Exercise" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="P05BorderControl" />
+      <recent name="A4InterfacesAndAbstraction.P04SayHelloExtended" />
+      <recent name="vehicle" />
+      <recent name="A3Inheritance.P02HierarchicalInheritance" />
       <recent name="A2Encapsulation.P04FirstAndReserveTeam" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A2Encapsulation.Exercise.P05FootballTeamGenerator.Main">
-    <configuration name="A2Encapsulation.Exercise.P01ClassBoxDataValidation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P01ClassBoxDataValidation.Main" />
+  <component name="RunManager" selected="Application.A4InterfacesAndAbstraction.Exercise.P07CollectionHierarchy.Main">
+    <configuration name="A4InterfacesAndAbstraction.Exercise.P03BirthdayCelebrations.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A4InterfacesAndAbstraction.Exercise.P03BirthdayCelebrations.Main" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A2Encapsulation.Exercise.P01ClassBoxDataValidation.*" />
+          <option name="PATTERN" value="A4InterfacesAndAbstraction.Exercise.P03BirthdayCelebrations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A2Encapsulation.Exercise.P02AnimalFarm.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P02AnimalFarm.Main" />
+    <configuration name="A4InterfacesAndAbstraction.Exercise.P04FoodShortage.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A4InterfacesAndAbstraction.Exercise.P04FoodShortage.Main" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A2Encapsulation.Exercise.P02AnimalFarm.*" />
+          <option name="PATTERN" value="A4InterfacesAndAbstraction.Exercise.P04FoodShortage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A2Encapsulation.Exercise.P04PizzaCalories.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P04PizzaCalories.Main" />
+    <configuration name="A4InterfacesAndAbstraction.Exercise.P06MilitaryElite.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A4InterfacesAndAbstraction.Exercise.P06MilitaryElite.Main" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A2Encapsulation.Exercise.P04PizzaCalories.*" />
+          <option name="PATTERN" value="A4InterfacesAndAbstraction.Exercise.P06MilitaryElite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A2Encapsulation.Exercise.P05FootballTeamGenerator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P05FootballTeamGenerator.Main" />
+    <configuration name="A4InterfacesAndAbstraction.Exercise.P07CollectionHierarchy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A4InterfacesAndAbstraction.Exercise.P07CollectionHierarchy.Main" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A2Encapsulation.Exercise.P05FootballTeamGenerator.*" />
+          <option name="PATTERN" value="A4InterfacesAndAbstraction.Exercise.P07CollectionHierarchy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +140,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P03ShoppingSpree.Main" />
+      <option name="MAIN_CLASS_NAME" value="A4InterfacesAndAbstraction.Exercise.P05Telephony.Main" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A2Encapsulation.Exercise.P03ShoppingSpree.*" />
+          <option name="PATTERN" value="A4InterfacesAndAbstraction.Exercise.P05Telephony.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A2Encapsulation.Exercise.P05FootballTeamGenerator.Main" />
-        <item itemvalue="Application.A2Encapsulation.Exercise.P04PizzaCalories.Main" />
+        <item itemvalue="Application.A4InterfacesAndAbstraction.Exercise.P07CollectionHierarchy.Main" />
+        <item itemvalue="Application.A4InterfacesAndAbstraction.Exercise.P06MilitaryElite.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.A2Encapsulation.Exercise.P02AnimalFarm.Main" />
-        <item itemvalue="Application.A2Encapsulation.Exercise.P01ClassBoxDataValidation.Main" />
+        <item itemvalue="Application.A4InterfacesAndAbstraction.Exercise.P04FoodShortage.Main" />
+        <item itemvalue="Application.A4InterfacesAndAbstraction.Exercise.P03BirthdayCelebrations.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +180,36 @@
           <url>file://$PROJECT_DIR$/A2Encapsulation/Exercise/P03ShoppingSpree/Main.java</url>
           <line>9</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A3Inheritance/Lab/P04StackOfStrings/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A4InterfacesAndAbstraction/Lab/P03SayHello/Main.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A4InterfacesAndAbstraction/Exercise/P01DefineAnInterfacePerson/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A4InterfacesAndAbstraction/Exercise/P02MultipleImplementation/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A4InterfacesAndAbstraction/Exercise/P04FoodShortage/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A4InterfacesAndAbstraction/Exercise/P06MilitaryElite/Main.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
