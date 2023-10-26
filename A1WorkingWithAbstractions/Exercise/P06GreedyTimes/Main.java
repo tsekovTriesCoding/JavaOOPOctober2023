@@ -16,9 +16,11 @@ public class Main {
             String name = safe[i];
             long amount = Long.parseLong(safe[i + 1]);
 
-            Item item = createItem(name, amount);
-
-            bag.putItem(item);
+            try {
+                Item item = createItem(name, amount);
+                bag.putItem(item);
+            } catch (IllegalArgumentException ignored) {
+            }
 
         }
 
@@ -27,17 +29,18 @@ public class Main {
     }
 
     private static Item createItem(String name, long quantity) {
-        ItemType itemType;
+        ItemType itemType = null;
         if (name.length() == 3) {
             itemType = ItemType.Cash;
         } else if (name.toLowerCase().endsWith("gem")) {
             itemType = ItemType.Gem;
-        } else if (name.toLowerCase().equals("gold")) {
+        } else if (name.equalsIgnoreCase("gold")) {
             itemType = ItemType.Gold;
-        } else {
-            return null;
         }
 
-        return new Item(itemType, name, quantity);
+        if (itemType != null) {
+            return new Item(itemType, name, quantity);
+        }
+        throw new IllegalArgumentException();
     }
 }

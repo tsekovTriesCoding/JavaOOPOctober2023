@@ -21,8 +21,6 @@ public class Bag {
             } else {
                 this.items.add(itemToAdd);
             }
-
-
         }
     }
 
@@ -80,7 +78,7 @@ public class Bag {
         StringBuilder sb = new StringBuilder();
         getAllTypesTotalAmount().entrySet()
                 .stream()
-                .filter(entry -> entry.getValue() != 0)
+                .filter(entry -> entry.getValue() > 0)
                 .sorted((e1, e2) -> e2.getValue().compareTo(e1.getValue()))
                 .forEach(entry -> {
                     sb.append(String.format("<%s> $%s", entry.getKey(), entry.getValue())).append(System.lineSeparator());
