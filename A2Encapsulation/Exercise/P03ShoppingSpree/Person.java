@@ -18,7 +18,7 @@ public class Person {
     public void buyProduct(Product product) {
         if (this.money >= product.getCost()) {
             this.products.add(product);
-            this.setMoney(this.money - product.getCost());
+            this.money -= product.getCost();
         } else {
             String message = String.format("%s can't afford %s", this.name, product.getName());
             throw new IllegalArgumentException(message);

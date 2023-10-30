@@ -23,7 +23,6 @@ public class Topping {
         }
 
         this.toppingType = ToppingType.valueOf(toppingType);
-
     }
 
     private void setWeight(double weight) {

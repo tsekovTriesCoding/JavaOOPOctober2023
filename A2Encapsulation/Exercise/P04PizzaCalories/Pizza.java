@@ -28,7 +28,7 @@ public class Pizza {
         if (numberOfToppings < 0 || numberOfToppings > 10) {
             throw new IllegalArgumentException("Number of toppings should be in range [0..10].");
         }
-        this.toppings = new ArrayList<>(toppings);
+        this.toppings = new ArrayList<>(numberOfToppings);
 
     }
 
