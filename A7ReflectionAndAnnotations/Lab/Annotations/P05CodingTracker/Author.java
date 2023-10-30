@@ -1,4 +1,4 @@
-package A7ReflectionAndAnnotations.Annotations.P05CodingTracker;
+package A7ReflectionAndAnnotations.Lab.Annotations.P05CodingTracker;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
