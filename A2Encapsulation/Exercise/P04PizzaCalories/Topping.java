@@ -1,9 +1,14 @@
 package A2Encapsulation.Exercise.P04PizzaCalories;
 
-import java.util.Arrays;
+import java.util.Map;
 
 public class Topping {
-    private ToppingType toppingType;
+
+    private static final Map<String,Double> toppingsMap = Map.of("Meat", 1.2,
+           "Veggies", 0.8,
+            "Cheese", 1.1,
+            "Sauce", 0.9);
+    private String toppingType;
     private double weight;
 
     public Topping(String toppingType, double weight) {
@@ -12,17 +17,15 @@ public class Topping {
     }
 
     public double calculateCalories() {
-        return (2 * this.weight) * this.toppingType.getModifier();
+        return (2 * this.weight) * toppingsMap.get(this.toppingType);
     }
 
     private void setToppingType(String toppingType) {
-        boolean toppingExists = (Arrays.stream(ToppingType.values()).anyMatch(e -> e.name().equals(toppingType)));
-
-        if (!toppingExists) {
+        if (!toppingsMap.containsKey(toppingType)) {
             throw new IllegalArgumentException(String.format("Cannot place %s on top of your pizza.", toppingType));
         }
 
-        this.toppingType = ToppingType.valueOf(toppingType);
+        this.toppingType = toppingType;
     }
 
     private void setWeight(double weight) {

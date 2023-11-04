@@ -1,10 +1,18 @@
 package A2Encapsulation.Exercise.P04PizzaCalories;
 
 import java.util.Arrays;
+import java.util.Map;
 
 public class Dough {
-    private FlourType flourType;
-    private BakingTechnique bakingTechnique;
+    private static final Map<String, Double> flourTypes = Map.of("White", 1.5,
+            "Wholegrain", 1.0);
+    private static final Map<String, Double> bakingTechniques = Map.of("Crispy", 0.9,
+            "Chewy", 1.1,
+            "Homemade", 1.0);
+
+
+    private String flourType;
+    private String bakingTechnique;
     private double weight;
 
     public Dough(String flourType, String bakingTechnique, double weight) {
@@ -14,21 +22,19 @@ public class Dough {
     }
 
     private void setFlourType(String flourType) {
-        boolean flourTypeExists = (Arrays.stream(FlourType.values()).anyMatch(e -> e.name().equals(flourType)));
 
-        if (!flourTypeExists) {
+
+        if (!flourTypes.containsKey(flourType)) {
             throw new IllegalArgumentException("Invalid type of dough.");
         }
-        this.flourType = FlourType.valueOf(flourType);
+        this.flourType = flourType;
     }
 
     private void setBakingTechnique(String bakingTechnique) {
-        boolean bakingTechniqueExists = (Arrays.stream(BakingTechnique.values()).anyMatch(e -> e.name().equals(bakingTechnique)));
-
-        if (!bakingTechniqueExists) {
+        if (!bakingTechniques.containsKey(bakingTechnique)) {
             throw new IllegalArgumentException("Invalid type of dough.");
         }
-        this.bakingTechnique = BakingTechnique.valueOf(bakingTechnique);
+        this.bakingTechnique = bakingTechnique;
     }
 
     private void setWeight(double weight) {
@@ -39,7 +45,7 @@ public class Dough {
     }
 
     public double calculateCalories() {
-        return (2 * this.weight) * flourType.getModifier() * bakingTechnique.getModifier();
+        return (2 * this.weight) * flourTypes.get(this.flourType) * bakingTechniques.get(this.bakingTechnique);
     }
 
 }
