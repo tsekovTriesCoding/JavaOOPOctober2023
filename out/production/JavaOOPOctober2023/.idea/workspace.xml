@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1ae8b4c6-c2f4-4b71-ad3c-cd64763c6639" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A7ReflectionAndAnnotations/Annotations/P05CodingTracker/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/A7ReflectionAndAnnotations/Lab/Annotations/P05CodingTracker/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2Encapsulation/Exercise/P04PizzaCalories/Dough.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2Encapsulation/Exercise/P04PizzaCalories/Dough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A2Encapsulation/Exercise/P04PizzaCalories/Topping.java" beforeDir="false" afterPath="$PROJECT_DIR$/A2Encapsulation/Exercise/P04PizzaCalories/Topping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaOOPOctober2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaOOPOctober2023/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOOPOctober2023/JavaOOPOctober2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaOOPOctober2023/JavaOOPOctober2023.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/Documents/GitHub/JavaOOPOctober2023/A7ReflectionAndAnnotations/Exercise&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/Documents/GitHub/JavaOOPOctober2023/A9UnitTesting&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -76,11 +76,11 @@
       <recent name="A5Polymorphism.P04WildFarm" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A9UnitTesting" />
+      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023" />
       <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A7ReflectionAndAnnotations\Exercise" />
       <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A7ReflectionAndAnnotations" />
-      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023" />
       <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A6SOLIDPrinciples\Exercise\P01SOLID" />
-      <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A6SOLIDPrinciples\Exercise" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Acer\Documents\GitHub\JavaOOPOctober2023\A4InterfacesAndAbstraction\Exercise" />
@@ -94,7 +94,7 @@
       <recent name="A3Inheritance.P02HierarchicalInheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A2Encapsulation.Exercise.P03ShoppingSpree.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="A2Encapsulation.Exercise.P03ShoppingSpree.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P03ShoppingSpree.Main" />
       <module name="JavaOOPOctober2023" />
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A5Polymorphism.Exercise.P02VehiclesExtension.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A5Polymorphism.Exercise.P02VehiclesExtension.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A2Encapsulation.Exercise.P04PizzaCalories.Main" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A5Polymorphism.Exercise.P02VehiclesExtension.*" />
+          <option name="PATTERN" value="A2Encapsulation.Exercise.P04PizzaCalories.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,26 +121,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P02GettersAndSetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A7ReflectionAndAnnotations.Lab.P02GettersAndSetters" />
-      <module name="JavaOOPOctober2023" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P03HighQualityMistakes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A7ReflectionAndAnnotations.Lab.P03HighQualityMistakes" />
-      <module name="JavaOOPOctober2023" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A7ReflectionAndAnnotations.Lab.Annotations.P05CodingTracker.Tracker" />
+    <configuration name="P01NumberInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A8ExceptionsAndErrorHandling.P01NumberInRange" />
       <module name="JavaOOPOctober2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A7ReflectionAndAnnotations.Lab.Annotations.P05CodingTracker.*" />
+          <option name="PATTERN" value="A8ExceptionsAndErrorHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P02SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A8ExceptionsAndErrorHandling.P02SquareRoot" />
+      <module name="JavaOOPOctober2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A8ExceptionsAndErrorHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P03EnterNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A8ExceptionsAndErrorHandling.P03EnterNumbers" />
+      <module name="JavaOOPOctober2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A8ExceptionsAndErrorHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.P03EnterNumbers" />
+        <item itemvalue="Application.P02SquareRoot" />
+        <item itemvalue="Application.P01NumberInRange" />
         <item itemvalue="Application.A2Encapsulation.Exercise.P03ShoppingSpree.Main" />
-        <item itemvalue="Application.Tracker" />
-        <item itemvalue="Application.P03HighQualityMistakes" />
-        <item itemvalue="Application.P02GettersAndSetters" />
-        <item itemvalue="Application.A5Polymorphism.Exercise.P02VehiclesExtension.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -221,6 +233,21 @@
           <url>file://$PROJECT_DIR$/A7ReflectionAndAnnotations/Lab/Annotations/P05CodingTracker/Tracker.java</url>
           <line>14</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A2Encapsulation/Exercise/P04PizzaCalories/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A8ExceptionsAndErrorHandling/P02SquareRoot.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/A8ExceptionsAndErrorHandling/P03EnterNumbers.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
