@@ -1,4 +1,4 @@
-package A1WorkingWithAbstractions.Lab.P02PointInRectangle;
+package A01WorkingWithAbstractions.Lab.P02PointInRectangle;
 
 public class Point {
     private int x;

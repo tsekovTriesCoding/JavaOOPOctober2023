@@ -1,5 +1,5 @@
 
-package A1WorkingWithAbstractions.Exercise.P06GreedyTimes;
+package A01WorkingWithAbstractions.Exercise.P06GreedyTimes;
 
 import java.util.Scanner;
 
